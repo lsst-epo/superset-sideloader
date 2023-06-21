@@ -1,0 +1,24 @@
+{
+    "dataset_name": "sidecheck_test_data_1",
+    "dataset": [
+        {
+            "col1": "test",
+            "col2": 1,
+            "col3": 2.032,
+            "col4": true
+        },
+        {
+            "col1": "test2",
+            "col2": 2,
+            "col3": 3.032,
+            "col4": false
+        },
+        {
+            "col1": "test3",
+            "col2": 3,
+            "col3": 4.032,
+            "col4": false
+        }
+    ],
+    "eric": "rosas"
+}
